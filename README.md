@@ -12,6 +12,7 @@ Reference Links
 * [tensorflow-sound-classification](https://www.iotforall.com/tensorflow-sound-classification-machine-learning-applications/)
 * [Audio-content-representations](https://www.researchgate.net/figure/Audio-content-representations-On-the-top-a-digital-audio-signal-is-illustrated-with-its_fig2_319700841)
 * [Music Feature Extraction in Python](https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d)
+* [Spectrogram, Cepstrum and Mel-Frequency](https://archive.org/details/SpectrogramCepstrumAndMel-frequency_636522)
 
 Possible DataSets
 * [Google AudioSet](https://research.google.com/audioset/index.html)
