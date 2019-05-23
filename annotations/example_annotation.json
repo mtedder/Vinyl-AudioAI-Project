@@ -1,0 +1,11 @@
+{
+  "filename":"xyz.wav",
+  "path":"raw_sound_files/xyz.wav",
+  "labels": [
+    "skip",
+    "jump",
+    "stick",
+    "background noise"
+  ],
+  "description": "info about file"
+}

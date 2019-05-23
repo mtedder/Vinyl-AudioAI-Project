@@ -13,6 +13,8 @@ Reference Links
 * [Audio-content-representations](https://www.researchgate.net/figure/Audio-content-representations-On-the-top-a-digital-audio-signal-is-illustrated-with-its_fig2_319700841)
 * [Music Feature Extraction in Python](https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d)
 * [Spectrogram, Cepstrum and Mel-Frequency](https://archive.org/details/SpectrogramCepstrumAndMel-frequency_636522)
+* [Audio Voice Processing Deep Learning](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
+* [Music Classification](https://medium.com/@sdoshi579/classification-of-music-into-different-genres-using-keras-82ab5339efe0)
 
 Possible DataSets
 * [Google AudioSet](https://research.google.com/audioset/index.html)
